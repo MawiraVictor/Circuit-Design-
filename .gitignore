@@ -1,0 +1,7 @@
+﻿# OneDrive temp files
+~$*
+*.tmp
+desktop.ini
+
+# Office temp files
+*.laccdb
